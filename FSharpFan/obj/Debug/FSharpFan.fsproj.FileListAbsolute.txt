@@ -1,0 +1,28 @@
+c:\users\elephas\documents\visual studio 2013\Projects\FSharpFan\FSharpFan\bin\Debug\FSharpFan.exe.config
+c:\users\elephas\documents\visual studio 2013\Projects\FSharpFan\FSharpFan\bin\Debug\FSharpFan.XML
+c:\users\elephas\documents\visual studio 2013\Projects\FSharpFan\FSharpFan\bin\Debug\FSharpFan.exe
+c:\users\elephas\documents\visual studio 2013\Projects\FSharpFan\FSharpFan\bin\Debug\FSharpFan.pdb
+c:\users\elephas\documents\visual studio 2013\Projects\FSharpFan\FSharpFan\bin\Debug\FSharp.Core.dll
+c:\users\elephas\documents\visual studio 2013\Projects\FSharpFan\FSharpFan\bin\Debug\Hammock.ClientProfile.dll
+c:\users\elephas\documents\visual studio 2013\Projects\FSharpFan\FSharpFan\bin\Debug\Hammock.dll
+c:\users\elephas\documents\visual studio 2013\Projects\FSharpFan\FSharpFan\bin\Debug\Hammock.pdb
+c:\users\elephas\documents\visual studio 2013\Projects\FSharpFan\FSharpFan\bin\Debug\Hammock.ClientProfile.pdb
+c:\users\elephas\documents\visual studio 2013\Projects\FSharpFan\FSharpFan\bin\Debug\FSharp.Core.xml
+c:\users\elephas\documents\visual studio 2013\Projects\FSharpFan\FSharpFan\bin\Debug\ja\FSharp.Core.resources.dll
+c:\users\elephas\documents\visual studio 2013\Projects\FSharpFan\FSharpFan\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+c:\users\elephas\documents\visual studio 2013\Projects\FSharpFan\FSharpFan\obj\Debug\FSharpFan.exe
+c:\users\elephas\documents\visual studio 2013\Projects\FSharpFan\FSharpFan\obj\Debug\FSharpFan.pdb
+C:\Users\Elephas\Desktop\FSharpFan\FSharpFan\bin\Debug\FSharpFan.XML
+C:\Users\Elephas\Desktop\FSharpFan\FSharpFan\obj\Debug\FSharpFan.exe
+C:\Users\Elephas\Desktop\FSharpFan\FSharpFan\obj\Debug\FSharpFan.pdb
+C:\Users\Elephas\Desktop\FSharpFan\FSharpFan\bin\Debug\FSharpFan.exe.config
+C:\Users\Elephas\Desktop\FSharpFan\FSharpFan\bin\Debug\FSharpFan.exe
+C:\Users\Elephas\Desktop\FSharpFan\FSharpFan\bin\Debug\FSharpFan.pdb
+C:\Users\Elephas\Desktop\FSharpFan\FSharpFan\bin\Debug\FSharp.Core.dll
+C:\Users\Elephas\Desktop\FSharpFan\FSharpFan\bin\Debug\Hammock.ClientProfile.dll
+C:\Users\Elephas\Desktop\FSharpFan\FSharpFan\bin\Debug\Hammock.dll
+C:\Users\Elephas\Desktop\FSharpFan\FSharpFan\bin\Debug\Hammock.pdb
+C:\Users\Elephas\Desktop\FSharpFan\FSharpFan\bin\Debug\Hammock.ClientProfile.pdb
+C:\Users\Elephas\Desktop\FSharpFan\FSharpFan\bin\Debug\FSharp.Core.xml
+C:\Users\Elephas\Desktop\FSharpFan\FSharpFan\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\Elephas\Desktop\FSharpFan\FSharpFan\bin\Debug\zh-Hans\FSharp.Core.resources.dll
